@@ -1,3 +1,4 @@
+package person;
 public class Person { // スーパークラス
     private String name;
     private int age;

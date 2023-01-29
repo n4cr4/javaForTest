@@ -1,4 +1,5 @@
-class BusinessPerson extends Person { // サブクラス
+package person;
+public class BusinessPerson extends Person { // サブクラス
     private String job;
 
     public BusinessPerson(String name, int age, String job) {

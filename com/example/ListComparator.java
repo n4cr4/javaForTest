@@ -1,6 +1,6 @@
 import java.util.Comparator;
 
-// import person.Person;
+import person.Person;
 
 public class ListComparator implements Comparator<Person> { // Comparatorインタフェースを利用
     public int compare(Person p1, Person p2) { // compareメソッドを実装

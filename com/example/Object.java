@@ -1,3 +1,5 @@
+import person.*;
+
 public class Object {
     public static void main(String[] args) {
         // Person クラスと BusinessPerson クラスのインスタンスを作成
